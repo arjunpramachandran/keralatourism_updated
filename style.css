@@ -97,7 +97,7 @@ p{
 }
 .parallax {
     /* The image used */
-    background-image: url('/images/kannur_sunset.jpg');
+    background-image: url('images/kannur_sunset.jpg');
     /* Set a specific height */
     min-height: 500px;
     /* Create the parallax scrolling effect */
